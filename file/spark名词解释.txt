@@ -1,0 +1,48 @@
+
+
+hadoop回顾:
+shuffle:MapTask  (write)   [SortShuffle]最终是合并成一个有序的文件
+	Partitioner
+		sort(P,K)
+			combiner(reduce)
+				mergeVlues(+-*/)    reduceByKey
+				combinerVlues Seq	groupByKey
+				
+				
+				hello  1
+				hello  1
+				hello  1
+					1)  hello 3
+					2)	hello (1,1,1) 
+MR:有无combiner 2种shuffle写的实现行为
+
+
+spark名词:
+DAG:
+	1,ShuffleMapStage --->  ShuffleMapTask   (包含shuffle-write)
+	2,ResultStage     --->	ResultTask		
+
+shuffle:
+	HashShuffle
+		不最终合并成一个文件,且不会有排序的过程.理论上,不会加大CPU的资源使用,实际中会让I/O小文件的弊端放大
+	SortShuffle  最终合并成一个文件,以下就是3种shufflewrite
+		1,ByPassSortMegre
+			读取记录,直接准备分区数量的小文件
+			最终把小文件链接成一个大文件
+			分区数限制,200个
+		2,SortShuffle
+			只按分区排序
+			缓冲区Map
+		3,UnsafeSort...堆外
+灵活的胖子
+[[计算过程当中,shuffleWrite是根据开发人员使用的不同算子来选择合适的shufflewrite]]
+
+
+
+
+
+
+
+
+
+
