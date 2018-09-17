@@ -23,9 +23,9 @@ object pvuv {
     //    val a = sc.textFile("./file/pvuvdata")
     //    val b = a.map(_.split("\t"))
     //    val c = b.map(x => (x(0) + "_" + x(5), 1))
-    //    val d = c.distinct()
+    //    val d = c.distinct()//去重
     //    val f = d.map(x=>(x._1.split("_")(1),1))
-    //    val e = f.reduceByKey(_+_).sortBy(_._2, false)
+    //    val e = f.reduceByKey(_+_).sortBy(_._2, false)//排序
     //    e.take(5).foreach(println)
 
     sc.textFile("./file/pvuvdata").map(_.split("\t")).map(x => (x(0) + "_" + x(5), 1)).distinct().map(x => (x._1.split("_")(1), 1))
