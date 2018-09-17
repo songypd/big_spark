@@ -11,5 +11,6 @@
     <orderEntry type="library" name="spark-assembly-1.6.0-hadoop2.6.0" level="application" />
     <orderEntry type="library" name="scala-actors" level="application" />
     <orderEntry type="library" name="spark-1.6" level="application" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.32-bin" level="application" />
   </component>
 </module>

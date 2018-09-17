@@ -7,6 +7,7 @@ import org.apache.spark.sql.types.{StringType, StructField, StructType}
 
 /**
   * Created by yuanpeng.song on 2018/9/16.
+  * 读取普通的RDD
   */
 
 ;

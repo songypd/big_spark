@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2bd5a63-8f81-4584-ab89-fdb9e34f92b9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/scala/learn/demo/pvuv.scala" afterPath="$PROJECT_DIR$/src/com/scala/learn/demo/pvuv.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/person$.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/person$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/person.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$1.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$2.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$3.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$4.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$5.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$main$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$anonfun$main$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$typecreator1$1.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$$typecreator1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$.class" afterPath="$PROJECT_DIR$/out/production/bigData-Scala/com/scala/learn/sprakSql/sparkSql_demo_002$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/scala/learn/sprakSql/sparkSql_demo_002.scala" afterPath="$PROJECT_DIR$/src/com/scala/learn/sprakSql/sparkSql_demo_002.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/scala/learn/sprakSql/sprakSql_demo_001.scala" afterPath="$PROJECT_DIR$/src/com/scala/learn/sprakSql/sprakSql_demo_001.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,23 +27,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sprakSql_demo_001.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/scala/learn/sprakSql/sprakSql_demo_001.scala">
+      <file leaf-file-name="sparkSql_demo_003.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/scala/learn/sprakSql/sparkSql_demo_003.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="182">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
-                <element signature="e#34#72#0" expanded="true" />
+                <element signature="e#34#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sparkSql_demo_002.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sparkSql_demo_002.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/scala/learn/sprakSql/sparkSql_demo_002.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+            <state relative-caret-position="350">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="106" />
               <folding>
                 <element signature="e#34#83#0" expanded="true" />
               </folding>
@@ -39,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StructField.scala" pinned="false" current-in-tab="false">
-        <entry file="file://D:/tools/spark-1.6.0/sql/catalyst/src/main/scala/org/apache/spark/sql/types/StructField.scala">
+      <file leaf-file-name="SaveMode.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/tools/spark-1.6.0/sql/core/src/main/java/org/apache/spark/sql/SaveMode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="26">
+              <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataFrame.scala" pinned="false" current-in-tab="false">
+        <entry file="file://D:/tools/spark-1.6.0/sql/core/src/main/scala/org/apache/spark/sql/DataFrame.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="1714" column="6" lean-forward="false" selection-start-line="1714" selection-start-column="6" selection-end-line="1714" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -151,6 +173,7 @@
         <option value="$PROJECT_DIR$/file/sparkSql/normal" />
         <option value="$PROJECT_DIR$/src/com/scala/learn/sprakSql/sprakSql_demo_001.scala" />
         <option value="$PROJECT_DIR$/src/com/scala/learn/sprakSql/sparkSql_demo_002.scala" />
+        <option value="$PROJECT_DIR$/src/com/scala/learn/sprakSql/sparkSql_demo_003.scala" />
       </list>
     </option>
   </component>
@@ -923,6 +946,112 @@
               <option name="myItemId" value="big_spark" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprakSql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sparkSql_demo_003$" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.projectView.TypeDefinitionNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="big_spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="big_spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprakSql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sparkSql_demo_002.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.projectView.FileNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sparkSql_demo_002$" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.projectView.TypeDefinitionNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="big_spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="big_spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sprakSql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sparkSql_demo_002.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.projectView.FileNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="big_spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="big_spark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -965,7 +1094,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/tools/mysql-connector-java-5.1.32-bin.jar!/" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SearchEverywhereHistoryKey" value="NettyRpcEnvFactory&#9;FILE&#9;jar://D:/尚学堂大数据-资料/13scala/资料/spark-assembly-1.6.0-hadoop2.6.0.jar!/org/apache/spark/rpc/netty/NettyRpcEnvFactory.class&#10;Master&#9;null&#9;null&#10;RDD&#9;FILE&#9;file://D:/tools/spark-1.6.0/core/src/main/scala/org/apache/spark/rdd/RDD.scala&#10;rdd&#9;FILE&#9;file://D:/tools/spark-1.6.0/core/src/main/scala/org/apache/spark/rdd/RDD.scala&#10;RDd&#9;FILE&#9;jar://D:/尚学堂大数据-资料/13scala/资料/spark-assembly-1.6.0-hadoop2.6.0.jar!/org/apache/spark/rdd/RDD.class&#10;Rdd&#9;null&#9;null" />
@@ -990,27 +1119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sparkSql_demo_002">
-    <configuration default="false" name="pvuv" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.scala.learn.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.scala.learn.demo.pvuv" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="bigData-Scala" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.sparkSql_demo_003">
     <configuration default="false" name="function_002" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1079,6 +1188,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.scala.learn.sprakSql.sparkSql_demo_002" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bigData-Scala" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sparkSql_demo_003" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.scala.learn.sprakSql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.scala.learn.sprakSql.sparkSql_demo_003" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1659,19 +1788,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.pvuv" />
-      <item index="1" class="java.lang.String" itemvalue="Application.function_002" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Review" />
-      <item index="3" class="java.lang.String" itemvalue="Application.sprakSql_demo_001" />
-      <item index="4" class="java.lang.String" itemvalue="Application.sparkSql_demo_002" />
+      <item index="0" class="java.lang.String" itemvalue="Application.function_002" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Review" />
+      <item index="2" class="java.lang.String" itemvalue="Application.sprakSql_demo_001" />
+      <item index="3" class="java.lang.String" itemvalue="Application.sparkSql_demo_002" />
+      <item index="4" class="java.lang.String" itemvalue="Application.sparkSql_demo_003" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.sparkSql_demo_002" />
-        <item index="1" class="java.lang.String" itemvalue="Application.sprakSql_demo_001" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Review" />
-        <item index="3" class="java.lang.String" itemvalue="Application.function_002" />
-        <item index="4" class="java.lang.String" itemvalue="Application.pvuv" />
+        <item index="0" class="java.lang.String" itemvalue="Application.sparkSql_demo_003" />
+        <item index="1" class="java.lang.String" itemvalue="Application.sparkSql_demo_002" />
+        <item index="2" class="java.lang.String" itemvalue="Application.sprakSql_demo_001" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Review" />
+        <item index="4" class="java.lang.String" itemvalue="Application.function_002" />
       </list>
     </recent_temporary>
   </component>
@@ -1707,12 +1836,12 @@
       <workItem from="1536300739828" duration="250000" />
       <workItem from="1536301029958" duration="5372000" />
       <workItem from="1536991654552" duration="7695000" />
-      <workItem from="1537084277382" duration="11999000" />
+      <workItem from="1537084277382" duration="16781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107680000" />
+    <option name="totallyTimeSpent" value="112462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="745" extended-state="0" />
@@ -1733,14 +1862,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33494365" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3237774" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32363012" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8287671" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32741934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60958904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26439393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1809,15 +1938,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/file/String的方法.txt" />
-    <entry file="file://$PROJECT_DIR$/file/数组方法.txt" />
-    <entry file="file://$PROJECT_DIR$/src/com/scala/learn/test/Test_001.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/scala/learn/base/scala_class_001.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
@@ -2056,21 +2176,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/scala/learn/sprakSql/sprakSql_demo_001.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="42" />
-          <folding>
-            <element signature="e#34#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/tools/spark-1.6.0/sql/catalyst/src/main/scala/org/apache/spark/sql/types/StructField.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#838#870#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2082,12 +2195,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/scala/learn/sprakSql/sprakSql_demo_001.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#34#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tools/spark-1.6.0/sql/core/src/main/java/org/apache/spark/sql/SaveMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tools/spark-1.6.0/sql/core/src/main/scala/org/apache/spark/sql/DataFrame.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1714" column="6" lean-forward="false" selection-start-line="1714" selection-start-column="6" selection-end-line="1714" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/scala/learn/sprakSql/sparkSql_demo_002.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+        <state relative-caret-position="350">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="106" />
           <folding>
             <element signature="e#34#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/scala/learn/sprakSql/sparkSql_demo_003.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="e#34#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2121,7 +2270,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.10.4</last-edited>
+          <last-edited>mysql-connector-java-5.1.32-bin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2170,7 +2319,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>spark-assembly-1.6.0-hadoop2.6.0</last-edited>
+          <last-edited>hadoop-lib-2.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

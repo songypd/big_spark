@@ -5,9 +5,9 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
   * Created by yuanpeng.song on 2018/9/16.
+  * 读取json的rdd
   */
 
-;
 
 object sprakSql_demo_001 {
   def main(args: Array[String]): Unit = {
